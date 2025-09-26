@@ -2,7 +2,7 @@
 
 A console-based Python game where players log in, guess numbers, and compete on a global leaderboard.
 NGG combines fun gameplay, skill-enhancement, and coding practice with features like user authentication, score tracking, and motivational jokes.
-<br>
+<br><br>
 ✨ Features<br>
 🔐 User Authentication → Players log in with unique credentials.<br>
 🏆 Personal Score Tracking → Each player’s progress is saved in files.<br>
@@ -30,11 +30,11 @@ Motivational joke shown<br>
 Python 3.x<br>
 Works on Windows / Linux / macOS (console-based)<br>
 📥 Installation<br>
-# Clone this repository<br>
+Clone this repository<br>
 git clone https://github.com/Mustaqeem-Codes/Number-Guess-Game.git<br>
-# Navigate to the project folder<br>
+Navigate to the project folder<br>
 cd Number-Guess-Game<br>
-# Run the game<br>
+Run the game<br>
 python main.py<br>
 
 🎯 Learning Outcomes<br>
